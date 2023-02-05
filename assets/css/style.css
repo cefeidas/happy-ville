@@ -1,3 +1,10 @@
 body {
-    background-color: blue;
+    background-color: black;
+}
+.slides {
+    width: 100%;
+}
+
+.slides-hidden {
+    display: none;
 }
